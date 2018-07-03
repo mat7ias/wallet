@@ -8,6 +8,8 @@ var web3;
 $(window).on('load', function() {
     if (web3 === undefined) {
         alert('Could not find web3 Object. Make sure you are using the Chrome browser and have the MetaMask extension installed or try compatible options.');
+    } else {
+        $('#description').text('Connection to the ethereum chain established');
     }
 
 
