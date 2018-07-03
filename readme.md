@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/fluidity-network/wallet/master/assets/images/fluiditynetwork.png" width="250">
 
-The second ever trustless wallet with free payments in the MAINNET Ethereum network. Powered by Fluid technology.
+The second ever (liquidity-network beat us to it :( ) trustless wallet with free payments in the MAINNET Ethereum network. Powered by Fluid technology.
 
 ## Key points of Fluidity Network
 
